@@ -2,4 +2,4 @@
 
 ## How to use
 
-run `bash run.sh YOUR_API_KEY`
+run `bash ssh.sh YOUR_API_KEY` on your SSH Virtual Machine. Not on your cloud shell!
